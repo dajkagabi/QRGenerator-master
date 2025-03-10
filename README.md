@@ -29,7 +29,7 @@ Ez egy React Native alkalmazás, amely lehetővé teszi QR-kódok generálását
    ```
 
 ## Fájlstruktúra
-- **App.js**: Az alkalmazás fő komponense
+- **App.tsx**: Az alkalmazás fő komponense
 - **styles**: A React Native `StyleSheet` segítségével definiált stílusok
 - **components**: Az UI elemek, például a QR-kód megjelenítése és az input mező kezelése
 
