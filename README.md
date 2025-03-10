@@ -40,13 +40,13 @@ Ez egy React Native alkalmazás, amely lehetővé teszi QR-kódok generálását
 4. A generált QR-kód megjelenik a képernyőn
 
 ## Képernyőképek
-<img height="500" alt="" src="https://github.com/user-attachments/assets/aada5a08-5bba-4947-b39b-8ef92b09f39d">
+<img height="300" alt="" src="https://github.com/user-attachments/assets/aada5a08-5bba-4947-b39b-8ef92b09f39d">
 
-<img height="500" alt="" src="https://github.com/user-attachments/assets/7db92b68-5f48-40e1-a9f5-9ea0b24c234d">
+<img height="300" alt="" src="https://github.com/user-attachments/assets/7db92b68-5f48-40e1-a9f5-9ea0b24c234d">
 
 
-<img height="500" alt="" src="https://github.com/user-attachments/assets/3ed7fee8-d01d-4818-9178-cfc5cd9037af">
->
+<img height="300" alt="" src="https://github.com/user-attachments/assets/3ed7fee8-d01d-4818-9178-cfc5cd9037af">
+
 
 
 
